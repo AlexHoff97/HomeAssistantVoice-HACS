@@ -1,0 +1,11 @@
+{
+  "domain": "voice_agent",
+  "name": "Voice Agent Router",
+  "codeowners": [],
+  "config_flow": true,
+  "dependencies": ["conversation"],
+  "documentation": "https://github.com/AlexHoff97/HomeAssistantVoice-HACS",
+  "issue_tracker": "https://github.com/AlexHoff97/HomeAssistantVoice-HACS/issues",
+  "iot_class": "local_push",
+  "version": "0.1.0"
+}
