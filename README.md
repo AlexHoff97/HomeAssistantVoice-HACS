@@ -1,6 +1,6 @@
 # Voice Agent Router
 
-![Voice Agent Router](assets/voice-agent-router.png)
+![Voice Agent Router](https://raw.githubusercontent.com/AlexHoff97/HomeAssistantVoice-HACS/main/assets/voice-agent-router.png)
 
 Home Assistant custom conversation agent for a private Voice Agent Router service.
 
