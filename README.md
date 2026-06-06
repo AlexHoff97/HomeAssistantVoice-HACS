@@ -1,5 +1,7 @@
 # Voice Agent Router
 
+![Voice Agent Router](assets/voice-agent-router.png)
+
 Home Assistant custom conversation agent for a private Voice Agent Router service.
 
 This integration forwards a Home Assistant Assist conversation turn to a router
